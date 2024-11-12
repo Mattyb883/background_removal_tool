@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore virtual environment folder
+matts_env/
+
+# Ignore image files
+*.jpg
+*.JPG
+*.png
+*.PNG
